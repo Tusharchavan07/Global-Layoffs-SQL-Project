@@ -1,0 +1,1 @@
+# Global-Layoffs-SQL-Project
